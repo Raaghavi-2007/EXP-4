@@ -55,9 +55,11 @@ Full wave rectifier:
 WAVEFORM:
 
 Half wave rectifier:
+
 <img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/b76acfdf-fec9-41c1-8def-d231a03fb7b4" />
 
 Full wave rectifier:
+
 <img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/7df1afa0-638a-46fd-9043-60e646e0966d" />
 
 RESULT:
