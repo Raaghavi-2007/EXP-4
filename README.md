@@ -54,10 +54,12 @@ Full wave rectifier with filter and without filter:
 TABULAR COLUMN AND MODEL GRAPH:
 
 Half wave rectifier:
-<img width="1280" height="779" alt="image" src="https://github.com/user-attachments/assets/6830ee50-753b-4359-a79d-2324b3eef973" />
+<img width="1280" height="790" alt="image" src="https://github.com/user-attachments/assets/d0201133-3dbd-4d18-9190-628fdc6b68ad" />
+
 
 Full wave rectifier:
-<img width="1280" height="941" alt="image" src="https://github.com/user-attachments/assets/73cc4b02-0edb-45f7-a937-9484e6b0c421" />
+<img width="1280" height="939" alt="image" src="https://github.com/user-attachments/assets/90147d22-b5aa-4bee-85d9-84f13fe452a6" />
+
 
 WAVEFORM:
 
